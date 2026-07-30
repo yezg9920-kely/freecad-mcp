@@ -1,5 +1,7 @@
 # FreeCAD MCP Server
 
+[中文说明](README.zh-CN.md)
+
 A tiny Windows launcher that turns FreeCAD into a headless MCP server for Kimi, Claude, and Codex via the [freecad-ai](https://github.com/ghbalf/freecad-ai) addon.
 
 ## What this package does
